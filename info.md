@@ -12,6 +12,7 @@
 * [LinkedIn](https://www.linkedin.com/company/owaspsanjuan/)
 * [Facebook](https://www.facebook.com/owaspsanjuan)
 * [GitHub](https://www.github.com/OWASP/www-san-juan)
+* [Discord Server](https://discord.gg/)
 
 <!-- To-Do:
 

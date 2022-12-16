@@ -8,7 +8,7 @@ meetup-group:
 
 ---
 
-Welcome to the OWASP San Juan Homepage. Follow Chapter news on [Twitter](https://www.twitter.com/owaspsanjuan) and [LinkedIn](https://www.linkedin.com/company/owaspsanjuan/).
+Welcome to the OWASP San Juan Homepage. Follow Chapter news on [Twitter](https://www.twitter.com/owaspsanjuan) and [LinkedIn](https://www.linkedin.com/company/owaspsanjuan/). Tune into our [Discord Server](https://discord.gg/4Z6Z7Z9) for live discussions and events. Watch [Github](https://www.github.com/OWASP/www-san-juan) for updates to this page, projects, and issues
 
 If you live in **Puerto Rico** (or otherwise), and are interested in, or actively involved in **Cybersecurity**, **please** get in touch with us through any of our social channels for more information. Students of _University of Puerto Rico_ ([UPR](https://www.uprrp.edu/)), reach out to us as well! We are looking to build a strong community of cybersecurity professionals and students in the San Juan area.
 
