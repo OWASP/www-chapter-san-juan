@@ -2,17 +2,17 @@
 
 layout: col-sidebar
 title: OWASP San Juan
-tags: example-tag
-region: Central America
+tags: owasp-san-juan, owasp-san-juan-chapter, owasp-sj, owasp-pr
+region: Caribbean
 meetup-group:
 
 ---
 
-## OWASP San Juan
+Welcome to the OWASP San Juan Homepage. Follow Chapter news on [Twitter](https://www.twitter.com/owaspsanjuan) and [LinkedIn](https://www.linkedin.com/company/owaspsanjuan/).
 
-Welcome to the OWASP San Juan Homepage. Follow Chapter news on [Twitter](https://twitter.com/owaspsanjuan) and [Facebook](https://www.facebook.com/OWASPSanJuan/).
+If you live in **Puerto Rico** (or otherwise), and are interested in, or actively involved in **Cybersecurity**, **please** get in touch with us through any of our social channels for more information. Students of _University of Puerto Rico_ ([UPR](https://www.uprrp.edu/)), reach out to us as well! We are looking to build a strong community of cybersecurity professionals and students in the San Juan area.
 
-If you live in Puerto Rico, a student at the University of Puerto Rico, and / or are interested in joining our chapter, please reach out to use via the contact info provided in [info.md](https://github.com/OWASP/www-san-juan/info.md) or [leaders.md](https://github.com/OWASP/www-san-juan/leaders.md)
+Please reach out to use via the contact info provided in [info.md](https://www.github.com/OWASP/www-san-juan/info.md) or [leaders.md](https://www.github.com/OWASP/www-san-juan/leaders.md)
 
 We look forward to kicking off our first line of events towards the beginning of 2023, so stay tuned for event details! Happy Hacking! 
 
