@@ -4,27 +4,8 @@
     * [Jorge Lopez](mailto:jorge.lopez@owas.org)
 
 ### Social Links
-<!-- * [Meetup](#) -->
-<!-- * [Zoom](#) -->  
-<!-- * [Google-Groups](#) --> 
-<!-- * [Mastodon](#) --> 
 * [Twitter](https://twitter.com/owaspsanjuan)
 * [LinkedIn](https://www.linkedin.com/company/owaspsanjuan/)
 * [Facebook](https://www.facebook.com/owaspsanjuan)
 * [GitHub](https://www.github.com/OWASP/www-san-juan)
-* [Discord Server](https://discord.gg/)
-
-<!-- To-Do:
-
-Add the following Social Media Links (once accounts provisioned):
-
-[x] Twitter
-[x] LinkedIn
-[x] Facebook
-[x] Discord Server
-[] Meetup
-[] Zoom
-[] Google Groups
-[] Mastodon
-
->
+* [Discord Server](https://discord.gg/4Z6Z7Z9)
