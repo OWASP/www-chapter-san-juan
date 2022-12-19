@@ -12,7 +12,7 @@ Welcome to the OWASP San Juan Homepage. Follow Chapter news on [Twitter](https:/
 
 If you live in **Puerto Rico** (or otherwise), and are interested in, or actively involved in **Cybersecurity**, **please** get in touch with us through any of our social channels for more information. Students of _University of Puerto Rico_ ([UPR](https://www.uprrp.edu/)), reach out to us as well! We are looking to build a strong community of cybersecurity professionals and students in the San Juan area.
 
-Please reach out to use via the contact info provided in [info.md](https://www.github.com/OWASP/www-san-juan/info.md) or [leaders.md](https://www.github.com/OWASP/www-san-juan/leaders.md)
+Please reach out by clicking on the Leaders names listed on the right and you will be directed to their OWASP email addresses. 
 
 We look forward to kicking off our first line of events towards the beginning of 2023, so stay tuned for event details! Happy Hacking! 
 
