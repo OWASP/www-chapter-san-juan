@@ -4,6 +4,7 @@
     * [Jorge Lopez](mailto:jorge.lopez@owas.org)
 
 ### Social Links
+* [Meetup](https://www.meetup.com/meetup-group-jhcesodi/)
 * [Twitter](https://twitter.com/owaspsanjuan)
 * [LinkedIn](https://www.linkedin.com/company/owaspsanjuan/)
 * [Facebook](https://www.facebook.com/owaspsanjuan)
