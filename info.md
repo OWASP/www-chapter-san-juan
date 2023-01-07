@@ -2,6 +2,7 @@
 * Contact Leadership Team: 
     * [Kyle Parisher](mailto:kyle.parisher@owasp.org)
     * [Jorge Lopez](mailto:jorge.lopez@owas.org)
+    * [Mario Hernandez](mailto:mario.hernandez@owasp.org)
 
 ### Social Links
 * [Meetup](https://www.meetup.com/meetup-group-jhcesodi/)
