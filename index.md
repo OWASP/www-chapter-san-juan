@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP San Juan
 tags: owasp-san-juan, owasp-san-juan-chapter, owasp-sj, owasp-pr
-region: Caribbean
+region: Central America
 meetup-group: meetup-group-jhcesodi
 
 ---
