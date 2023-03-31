@@ -1,6 +1,6 @@
 ### OWASP San Juan Chapter Information
 * Contact Leadership Team: 
-    * [Kyle Parisher](mailto:kyle.parisher@owasp.org)
+    * [Kylo Parisher](mailto:kyle.parisher@owasp.org)
     * [Jorge Lopez](mailto:jorge.lopez@owas.org)
     * [Mario Hernandez](mailto:mario.hernandez@owasp.org)
 
